@@ -6,6 +6,7 @@ import java.util.StringJoiner;
 public class BaseClass {
     private int intValue;
 
+    ///////// WHAT HAPPENS IF I COMMENT THIS OUT? :)
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
